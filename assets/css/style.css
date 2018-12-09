@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+
+div {
+    color: aliceblue;
+}
+
